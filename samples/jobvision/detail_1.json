@@ -1,0 +1,352 @@
+{
+  "traceId": null,
+  "isSuccess": true,
+  "statusCode": 0,
+  "message": "عملیات با موفقیت انجام شد",
+  "data": {
+    "id": 1607787,
+    "title": "برنامه‌نویس Python",
+    "description": "<div dir=\"rtl\" style=\"text-align:right\">مسلط به Python<br>توانایی کار با AI<br>مسلط به Visual Studio<br>مسلط به Database<br>مسلط به ICDL</div>",
+    "version": 25,
+    "isPersian": true,
+    "insightApplicationCount": null,
+    "company": {
+      "id": 97998,
+      "name": {
+        "titleFa": "غزال اکسین مهرگان",
+        "titleEn": "Ghazal Oxin Mehregan"
+      },
+      "brand": {
+        "titleFa": "",
+        "titleEn": ""
+      },
+      "description": {
+        "titleFa": "شرکت غزال اکسین مهرگان در سال 1398 با پشتوانه بیش از یک دهه حضور در بازار مواد اولیه صنایع غذایی و به صورت اختصاصی در زمینه طعم‌دهنده‌ها و افزودنی‌های خاص آغاز به فعالیت نموده است.\nاستفاده از نیروهای متخصص، توانمند و خلاق موجبات رشد شرکت و حضور آن در بازارهای صنایع مختلف را فراهم آورده و در این راستا جذب نخبگان دانشگاهی و مهندسین مجرب در اولویت تامین منابع انسانی قرار گرفته است.",
+        "titleEn": ""
+      },
+      "productsOrServices": {
+        "titleFa": "",
+        "titleEn": ""
+      },
+      "shortDescription": {
+        "titleFa": "فعال در حوزه تولید و فروش طعم دهنده های غذایی",
+        "titleEn": ""
+      },
+      "establishmentYear": null,
+      "hasPicture": true,
+      "hasCsrBadge": false,
+      "website": "gom-food.com/fa",
+      "companyLink": "/companies/97998/استخدام-غزال-اکسین-مهرگان",
+      "logoUrl": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=24460920&width=80&height=80",
+      "headerImageLink": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=40320816&width=1440&height=280",
+      "size": {
+        "id": 103,
+        "title": "51 تا 200 نفر",
+        "titleFa": "51 تا 200 نفر",
+        "titleEn": "51 - 200 employees"
+      },
+      "ownershipType": null,
+      "companyType": null,
+      "benefits": [
+        {
+          "id": 116,
+          "title": "وام",
+          "titleFa": "وام",
+          "titleEn": "Loan"
+        },
+        {
+          "id": 227,
+          "title": "بیمه درمان تکمیلی",
+          "titleFa": "بیمه درمان تکمیلی",
+          "titleEn": "Health insurance\r\n"
+        },
+        {
+          "id": 244,
+          "title": "بسته ها و هدایای مناسبتی",
+          "titleFa": "بسته ها و هدایای مناسبتی",
+          "titleEn": "Occasional packages and gifts\r\n"
+        }
+      ],
+      "industries": [
+        {
+          "id": 43,
+          "title": null,
+          "titleFa": "کالاهای مصرفی و تند گردش",
+          "titleEn": "Consumer Goods / FMCG"
+        },
+        {
+          "id": 54,
+          "title": null,
+          "titleFa": "تولیدی / صنعتی",
+          "titleEn": "Manufacturing & Production"
+        }
+      ],
+      "hasCompanyBranding": false,
+      "companyBrandingInfo": {
+        "hasBranding": false,
+        "hasStatistics": false,
+        "hasHireSteps": false,
+        "hasTeamMembers": false,
+        "hasSuccessStories": false,
+        "hasMedia": false
+      },
+      "hasAnyOtherActiveJobPosts": true,
+      "isGovernmentalCompany": false,
+      "companyScore": {
+        "totalScore": 4.02,
+        "scoreOfJobPostPopularity": 3.27,
+        "scoreOfCompanyReview": 3.95,
+        "scoreOfApplicationChangeStatus": 4.36,
+        "scoreOfInterviewsFeedback": 3.56,
+        "scoreOfCultureAndValues": 3.62,
+        "scoreOfCareerOpportunities": 3.95,
+        "scoreOfCompensationAndBenefits": 3.76,
+        "scoreOfSeniorManagement": 3.86,
+        "scoreOfWorkLifeBalance": 3.81,
+        "scoreOfProgressAndLearning": 3.9,
+        "countOfInterviewFeedback": 9,
+        "countOfCompanyReview": 21
+      }
+    },
+    "location": {
+      "country": {
+        "id": 1,
+        "title": null,
+        "titleFa": "ایران",
+        "titleEn": "Iran"
+      },
+      "province": {
+        "id": 41,
+        "title": null,
+        "titleFa": "البرز",
+        "titleEn": "Alborz"
+      },
+      "city": {
+        "citySize": 3,
+        "citySizeGroupId": 2,
+        "province": {
+          "id": 41,
+          "title": null,
+          "titleFa": "البرز",
+          "titleEn": "Alborz"
+        },
+        "urlTitle": "",
+        "id": 346,
+        "title": null,
+        "titleFa": "کرج",
+        "titleEn": "Karaj"
+      },
+      "regionGroup": null,
+      "region": {
+        "id": 3148,
+        "title": null,
+        "titleFa": "گلشهر",
+        "titleEn": "golshahr"
+      }
+    },
+    "userJobPostInfo": null,
+    "jobFairInfo": {
+      "isApplicable": true,
+      "isJobFair": false
+    },
+    "jobCategories": [
+      {
+        "id": 30,
+        "title": null,
+        "titleFa": "توسعه نرم افزار و برنامه نویسی",
+        "titleEn": "IT - Software Development (Web,Moblie,…)"
+      },
+      {
+        "id": 29,
+        "title": null,
+        "titleFa": "شبکه / DevOps / پشتیبانی سخت افزاری و نرم افزاری",
+        "titleEn": "Network / DevOps / IT admin / Software Support and Deployment"
+      }
+    ],
+    "workType": {
+      "id": 120,
+      "title": null,
+      "titleFa": "تمام وقت",
+      "titleEn": "Full Time"
+    },
+    "seniorityLevel": {
+      "id": 97,
+      "title": null,
+      "titleFa": "کارشناس",
+      "titleEn": "Specialist"
+    },
+    "salary": null,
+    "industry": {
+      "id": 43,
+      "title": "کالاهای مصرفی و تند گردش",
+      "titleFa": "کالاهای مصرفی و تند گردش",
+      "titleEn": "Consumer Goods / FMCG"
+    },
+    "gender": {
+      "id": 133,
+      "title": null,
+      "titleFa": "تفاوتی ندارد",
+      "titleEn": "Men / Women"
+    },
+    "benefits": [
+      {
+        "id": 116,
+        "title": "وام",
+        "titleFa": "وام",
+        "titleEn": "Loan"
+      },
+      {
+        "id": 227,
+        "title": "بیمه درمان تکمیلی",
+        "titleFa": "بیمه درمان تکمیلی",
+        "titleEn": "Health insurance\r\n"
+      },
+      {
+        "id": 244,
+        "title": "بسته ها و هدایای مناسبتی",
+        "titleFa": "بسته ها و هدایای مناسبتی",
+        "titleEn": "Occasional packages and gifts\r\n"
+      }
+    ],
+    "academicRequirements": [
+      {
+        "academicField": {
+          "id": 5,
+          "title": null,
+          "titleFa": "کامپیوتر / فناوری اطلاعات",
+          "titleEn": "Computer and IT"
+        },
+        "degreeLevel": {
+          "id": 1,
+          "title": null,
+          "titleFa": "کاردانی",
+          "titleEn": "Associate"
+        }
+      }
+    ],
+    "softwareRequirements": [
+      {
+        "software": {
+          "id": 276,
+          "title": null,
+          "titleFa": "Python",
+          "titleEn": "Python"
+        },
+        "skill": {
+          "id": 125,
+          "title": "پیشرفته",
+          "titleFa": "پیشرفته",
+          "titleEn": "Advanced"
+        }
+      },
+      {
+        "software": {
+          "id": 259,
+          "title": null,
+          "titleFa": "Microsoft Visual Studio",
+          "titleEn": "Microsoft Visual Studio"
+        },
+        "skill": {
+          "id": 124,
+          "title": "متوسط",
+          "titleFa": "متوسط",
+          "titleEn": "Intermediate"
+        }
+      },
+      {
+        "software": {
+          "id": 264,
+          "title": null,
+          "titleFa": "Microsoft SQL Server",
+          "titleEn": "Microsoft SQL Server"
+        },
+        "skill": {
+          "id": 124,
+          "title": "متوسط",
+          "titleFa": "متوسط",
+          "titleEn": "Intermediate"
+        }
+      },
+      {
+        "software": {
+          "id": 265,
+          "title": null,
+          "titleFa": "MySQL",
+          "titleEn": "MySQL"
+        },
+        "skill": {
+          "id": 124,
+          "title": "متوسط",
+          "titleFa": "متوسط",
+          "titleEn": "Intermediate"
+        }
+      },
+      {
+        "software": {
+          "id": 609,
+          "title": null,
+          "titleFa": "AI Chatbots & General Assistants",
+          "titleEn": "AI Chatbots & General Assistants"
+        },
+        "skill": {
+          "id": 124,
+          "title": "متوسط",
+          "titleFa": "متوسط",
+          "titleEn": "Intermediate"
+        }
+      }
+    ],
+    "languageRequirements": [
+      {
+        "language": {
+          "id": 2,
+          "title": null,
+          "titleFa": "انگلیسی",
+          "titleEn": "English"
+        },
+        "skill": {
+          "id": 128,
+          "title": null,
+          "titleFa": "متوسط ۵۰٪",
+          "titleEn": "Intermediate - 50%"
+        }
+      }
+    ],
+    "skills": [],
+    "workDays": "شنبه تا چهارشنبه 8:30 تا 17:00- پنج‌شنبه‌ها یک هفته در میان",
+    "businessTrip": null,
+    "requiredRelatedExperienceYears": null,
+    "requiredAcademicHistory": null,
+    "requiredKnowledge": null,
+    "requiredAgeMin": 20,
+    "requiredAgeMax": 35,
+    "shouldDoneMilitaryService": true,
+    "isInternship": false,
+    "isRemote": false,
+    "suitableForDisabled": false,
+    "isUrgent": true,
+    "indexable": true,
+    "typeId": 1,
+    "linkOutAddress": null,
+    "labels": [],
+    "isBlueCollarJob": false,
+    "hasSalaryHistogram": false,
+    "firstActivationTime": {
+      "passedDays": 11,
+      "beautifyFa": "11 روز پیش",
+      "beautifyEn": "11 days ago",
+      "date": "2026-11-14T11:42:18"
+    },
+    "activationTime": {
+      "passedDays": 1,
+      "beautifyFa": "دیروز",
+      "beautifyEn": "Yesterday",
+      "date": "2026-11-24T11:42:19"
+    },
+    "expireTime": {
+      "date": "2027-01-13T11:42:18",
+      "daysLeftUntil": 49
+    },
+    "isExpired": false
+  }
+}

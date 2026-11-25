@@ -1,0 +1,12 @@
+target_roles: [backend developer, python developer, software engineer]
+seniority: junior
+years_experience: 2
+
+weights:
+  python_backend: 0.55
+  fastapi: 0.15
+  other_skills: 0.20
+  experience: 0.10
+
+exclude_title_keywords: []
+exclude_companies: []

@@ -1,0 +1,1619 @@
+{
+  "traceId": null,
+  "isSuccess": true,
+  "statusCode": 0,
+  "message": "عملیات با موفقیت انجام شد",
+  "data": {
+    "currentPage": 1,
+    "pageSize": 10,
+    "jobPosts": [
+      {
+        "score": 0.7243716716766357,
+        "itemIndex": 1,
+        "searchPositionCoefficient": 0.46,
+        "labelDetails": [],
+        "id": 1607787,
+        "title": "برنامه‌نویس Python",
+        "isPersian": true,
+        "userJobPostInfo": {
+          "matchingScore": 0,
+          "isSuitableForCandidate": false,
+          "isBookmarked": false,
+          "isApplied": false,
+          "isCanceledApply": false,
+          "isAppliedAsVip": false,
+          "hasHighChanceBadge": null
+        },
+        "properties": {
+          "isInternship": false,
+          "isRemote": false,
+          "isUrgent": true,
+          "requiredRelatedExperienceYears": 0,
+          "suitableForDisabled": false,
+          "salaryCanBeShown": false,
+          "isCheckingResumes": true,
+          "typeId": 1,
+          "linkOutAddress": null,
+          "isBlueCollarJob": false
+        },
+        "company": {
+          "id": 97998,
+          "nameFa": "غزال اکسین مهرگان",
+          "nameEn": "Ghazal Oxin Mehregan",
+          "hasPicture": true,
+          "logoFileId": 24460920,
+          "logoUrl": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=24460920&width=50&height=50",
+          "pageUrl": "/companies/97998/استخدام-غزال-اکسین-مهرگان",
+          "isEmployerResponsive": false,
+          "isFamous": false,
+          "isGovernmentalCompany": false,
+          "companyScore": 4.022351669620078
+        },
+        "location": {
+          "country": {
+            "id": 1,
+            "title": null,
+            "titleFa": "ایران",
+            "titleEn": "Iran"
+          },
+          "province": {
+            "urlTitle": "all-cities-of-alborz",
+            "id": 41,
+            "title": "البرز",
+            "titleFa": "البرز",
+            "titleEn": "Alborz"
+          },
+          "city": {
+            "citySize": 3,
+            "citySizeGroupId": 2,
+            "province": null,
+            "urlTitle": "karaj",
+            "id": 346,
+            "title": null,
+            "titleFa": "کرج",
+            "titleEn": "Karaj"
+          },
+          "regionGroup": null,
+          "region": {
+            "id": 3148,
+            "title": null,
+            "titleFa": "گلشهر",
+            "titleEn": "golshahr"
+          }
+        },
+        "jobCategories": [
+          {
+            "id": 30,
+            "title": null,
+            "titleFa": "توسعه نرم افزار و برنامه نویسی",
+            "titleEn": "IT - Software Development (Web,Moblie,…)"
+          },
+          {
+            "id": 29,
+            "title": null,
+            "titleFa": "شبکه / DevOps / پشتیبانی سخت افزاری و نرم افزاری",
+            "titleEn": "Network / DevOps / IT admin / Software Support and Deployment"
+          }
+        ],
+        "benefits": [
+          {
+            "id": 116,
+            "title": "وام",
+            "titleFa": "وام",
+            "titleEn": "Loan"
+          },
+          {
+            "id": 227,
+            "title": "بیمه درمان تکمیلی",
+            "titleFa": "بیمه درمان تکمیلی",
+            "titleEn": "Health insurance\r\n"
+          },
+          {
+            "id": 244,
+            "title": "بسته ها و هدایای مناسبتی",
+            "titleFa": "بسته ها و هدایای مناسبتی",
+            "titleEn": "Occasional packages and gifts\r\n"
+          }
+        ],
+        "workType": {
+          "id": 120,
+          "title": null,
+          "titleFa": "تمام وقت",
+          "titleEn": "Full Time"
+        },
+        "seniorityLevel": {
+          "id": 97,
+          "title": null,
+          "titleFa": "کارشناس",
+          "titleEn": "Specialist"
+        },
+        "salary": null,
+        "industry": {
+          "id": 43,
+          "title": "کالاهای مصرفی و تند گردش",
+          "titleFa": "کالاهای مصرفی و تند گردش",
+          "titleEn": "Consumer Goods / FMCG"
+        },
+        "gender": {
+          "id": 133,
+          "title": null,
+          "titleFa": "تفاوتی ندارد",
+          "titleEn": "Men / Women"
+        },
+        "labels": [],
+        "firstActivationTime": {
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T11:42:19Z"
+        },
+        "activationTime": {
+          "passedDays": 1,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T11:42:19Z"
+        },
+        "expireTime": {
+          "daysLeftUntil": 49,
+          "isExpired": false,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2027-01-13T11:42:18Z"
+        }
+      },
+      {
+        "score": 0.7016488313674927,
+        "itemIndex": 2,
+        "searchPositionCoefficient": 0.46,
+        "labelDetails": [],
+        "id": 1626936,
+        "title": "برنامه‌نویس ارشد Python",
+        "isPersian": true,
+        "userJobPostInfo": {
+          "matchingScore": 0,
+          "isSuitableForCandidate": false,
+          "isBookmarked": false,
+          "isApplied": false,
+          "isCanceledApply": false,
+          "isAppliedAsVip": false,
+          "hasHighChanceBadge": null
+        },
+        "properties": {
+          "isInternship": false,
+          "isRemote": false,
+          "isUrgent": true,
+          "requiredRelatedExperienceYears": 5,
+          "suitableForDisabled": false,
+          "salaryCanBeShown": true,
+          "isCheckingResumes": false,
+          "typeId": 1,
+          "linkOutAddress": null,
+          "isBlueCollarJob": false
+        },
+        "company": {
+          "id": 8237,
+          "nameFa": "دنیای پردازش",
+          "nameEn": "Processing World Co",
+          "hasPicture": true,
+          "logoFileId": 1416911,
+          "logoUrl": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=1416911&width=50&height=50",
+          "pageUrl": "/companies/8237/استخدام-دنیای-پردازش",
+          "isEmployerResponsive": true,
+          "isFamous": false,
+          "isGovernmentalCompany": false,
+          "companyScore": 0
+        },
+        "location": {
+          "country": {
+            "id": 1,
+            "title": null,
+            "titleFa": "ایران",
+            "titleEn": "Iran"
+          },
+          "province": {
+            "urlTitle": "all-cities-of-tehran",
+            "id": 17,
+            "title": "تهران",
+            "titleFa": "تهران",
+            "titleEn": "Tehran"
+          },
+          "city": {
+            "citySize": 4,
+            "citySizeGroupId": 1,
+            "province": null,
+            "urlTitle": "tehran",
+            "id": 320,
+            "title": null,
+            "titleFa": "تهران",
+            "titleEn": "Tehran"
+          },
+          "regionGroup": {
+            "id": 5,
+            "title": null,
+            "titleFa": "مرکز",
+            "titleEn": "Center"
+          },
+          "region": {
+            "id": 30,
+            "title": null,
+            "titleFa": "امیرآباد",
+            "titleEn": "Amir Abad"
+          }
+        },
+        "jobCategories": [
+          {
+            "id": 30,
+            "title": null,
+            "titleFa": "توسعه نرم افزار و برنامه نویسی",
+            "titleEn": "IT - Software Development (Web,Moblie,…)"
+          }
+        ],
+        "benefits": [
+          {
+            "id": 116,
+            "title": "وام",
+            "titleFa": "وام",
+            "titleEn": "Loan"
+          },
+          {
+            "id": 117,
+            "title": "پاداش",
+            "titleFa": "پاداش",
+            "titleEn": "Bonus"
+          },
+          {
+            "id": 227,
+            "title": "بیمه درمان تکمیلی",
+            "titleFa": "بیمه درمان تکمیلی",
+            "titleEn": "Health insurance\r\n"
+          },
+          {
+            "id": 234,
+            "title": "ناهار",
+            "titleFa": "ناهار",
+            "titleEn": "Lunch\r\n"
+          },
+          {
+            "id": 244,
+            "title": "بسته ها و هدایای مناسبتی",
+            "titleFa": "بسته ها و هدایای مناسبتی",
+            "titleEn": "Occasional packages and gifts\r\n"
+          }
+        ],
+        "workType": {
+          "id": 120,
+          "title": null,
+          "titleFa": "تمام وقت",
+          "titleEn": "Full Time"
+        },
+        "seniorityLevel": {
+          "id": 172,
+          "title": null,
+          "titleFa": "کارشناس ارشد",
+          "titleEn": "Senior Specialist"
+        },
+        "salary": {
+          "id": 0,
+          "title": null,
+          "titleFa": "60 - 70 میلیون تومان",
+          "titleEn": "60 - 70 Million Tomans",
+          "max": 70,
+          "min": 60
+        },
+        "industry": {
+          "id": 50,
+          "title": "فناوری اطلاعات / نرم افزار و سخت افزار",
+          "titleFa": "فناوری اطلاعات / نرم افزار و سخت افزار",
+          "titleEn": "IT / Software / Hardware"
+        },
+        "gender": {
+          "id": 133,
+          "title": null,
+          "titleFa": "تفاوتی ندارد",
+          "titleEn": "Men / Women"
+        },
+        "labels": [],
+        "firstActivationTime": {
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T12:43:52Z"
+        },
+        "activationTime": {
+          "passedDays": 1,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T12:43:52Z"
+        },
+        "expireTime": {
+          "daysLeftUntil": 59,
+          "isExpired": false,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2027-01-23T12:43:52Z"
+        }
+      },
+      {
+        "score": 0.6873176097869873,
+        "itemIndex": 3,
+        "searchPositionCoefficient": 0.46,
+        "labelDetails": [],
+        "id": 1627123,
+        "title": "Senior Back-End Developer (Python)",
+        "isPersian": true,
+        "userJobPostInfo": {
+          "matchingScore": 0,
+          "isSuitableForCandidate": false,
+          "isBookmarked": false,
+          "isApplied": false,
+          "isCanceledApply": false,
+          "isAppliedAsVip": false,
+          "hasHighChanceBadge": null
+        },
+        "properties": {
+          "isInternship": false,
+          "isRemote": false,
+          "isUrgent": true,
+          "requiredRelatedExperienceYears": 7,
+          "suitableForDisabled": false,
+          "salaryCanBeShown": false,
+          "isCheckingResumes": false,
+          "typeId": 1,
+          "linkOutAddress": null,
+          "isBlueCollarJob": false
+        },
+        "company": {
+          "id": 187321,
+          "nameFa": "نوفیتک",
+          "nameEn": "NoFiTech",
+          "hasPicture": true,
+          "logoFileId": 37687128,
+          "logoUrl": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=37687128&width=50&height=50",
+          "pageUrl": "/companies/187321/استخدام-نوفیتک",
+          "isEmployerResponsive": false,
+          "isFamous": false,
+          "isGovernmentalCompany": false,
+          "companyScore": 0
+        },
+        "location": {
+          "country": {
+            "id": 1,
+            "title": null,
+            "titleFa": "ایران",
+            "titleEn": "Iran"
+          },
+          "province": {
+            "urlTitle": "all-cities-of-tehran",
+            "id": 17,
+            "title": "تهران",
+            "titleFa": "تهران",
+            "titleEn": "Tehran"
+          },
+          "city": {
+            "citySize": 4,
+            "citySizeGroupId": 1,
+            "province": null,
+            "urlTitle": "tehran",
+            "id": 320,
+            "title": null,
+            "titleFa": "تهران",
+            "titleEn": "Tehran"
+          },
+          "regionGroup": {
+            "id": 5,
+            "title": null,
+            "titleFa": "مرکز",
+            "titleEn": "Center"
+          },
+          "region": {
+            "id": 45,
+            "title": null,
+            "titleFa": "آرژانتین",
+            "titleEn": "Arjantin"
+          }
+        },
+        "jobCategories": [
+          {
+            "id": 30,
+            "title": null,
+            "titleFa": "توسعه نرم افزار و برنامه نویسی",
+            "titleEn": "IT - Software Development (Web,Moblie,…)"
+          }
+        ],
+        "benefits": [
+          {
+            "id": 117,
+            "title": "پاداش",
+            "titleFa": "پاداش",
+            "titleEn": "Bonus"
+          },
+          {
+            "id": 227,
+            "title": "بیمه درمان تکمیلی",
+            "titleFa": "بیمه درمان تکمیلی",
+            "titleEn": "Health insurance\r\n"
+          },
+          {
+            "id": 230,
+            "title": "ساعت کاری منعطف",
+            "titleFa": "ساعت کاری منعطف",
+            "titleEn": "Flexible working hours\r\n"
+          },
+          {
+            "id": 234,
+            "title": "ناهار",
+            "titleFa": "ناهار",
+            "titleEn": "Lunch\r\n"
+          },
+          {
+            "id": 235,
+            "title": "میان وعده",
+            "titleFa": "میان وعده",
+            "titleEn": "Snacks\r\n"
+          },
+          {
+            "id": 240,
+            "title": "تسهیلات تفریحی و گردشگری",
+            "titleFa": "تسهیلات تفریحی و گردشگری",
+            "titleEn": "Recreational and tourism facilities\r\n"
+          },
+          {
+            "id": 242,
+            "title": "کتابخانه",
+            "titleFa": "کتابخانه",
+            "titleEn": "Library\r\n"
+          },
+          {
+            "id": 244,
+            "title": "بسته ها و هدایای مناسبتی",
+            "titleFa": "بسته ها و هدایای مناسبتی",
+            "titleEn": "Occasional packages and gifts\r\n"
+          }
+        ],
+        "workType": {
+          "id": 120,
+          "title": null,
+          "titleFa": "تمام وقت",
+          "titleEn": "Full Time"
+        },
+        "seniorityLevel": {
+          "id": 172,
+          "title": null,
+          "titleFa": "کارشناس ارشد",
+          "titleEn": "Senior Specialist"
+        },
+        "salary": null,
+        "industry": {
+          "id": 50,
+          "title": "فناوری اطلاعات / نرم افزار و سخت افزار",
+          "titleFa": "فناوری اطلاعات / نرم افزار و سخت افزار",
+          "titleEn": "IT / Software / Hardware"
+        },
+        "gender": {
+          "id": 133,
+          "title": null,
+          "titleFa": "تفاوتی ندارد",
+          "titleEn": "Men / Women"
+        },
+        "labels": [],
+        "firstActivationTime": {
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T13:43:59Z"
+        },
+        "activationTime": {
+          "passedDays": 1,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T13:43:59Z"
+        },
+        "expireTime": {
+          "daysLeftUntil": 59,
+          "isExpired": false,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2027-01-23T13:43:59Z"
+        }
+      },
+      {
+        "score": 0.6725306510925293,
+        "itemIndex": 4,
+        "searchPositionCoefficient": 0.46,
+        "labelDetails": [],
+        "id": 1611313,
+        "title": "توسعه‌دهنده پایتون",
+        "isPersian": true,
+        "userJobPostInfo": {
+          "matchingScore": 0,
+          "isSuitableForCandidate": false,
+          "isBookmarked": false,
+          "isApplied": false,
+          "isCanceledApply": false,
+          "isAppliedAsVip": false,
+          "hasHighChanceBadge": null
+        },
+        "properties": {
+          "isInternship": false,
+          "isRemote": false,
+          "isUrgent": true,
+          "requiredRelatedExperienceYears": 3,
+          "suitableForDisabled": false,
+          "salaryCanBeShown": true,
+          "isCheckingResumes": true,
+          "typeId": 1,
+          "linkOutAddress": null,
+          "isBlueCollarJob": false
+        },
+        "company": {
+          "id": 27638,
+          "nameFa": "هلدینگ رسانه ای خبر فوری",
+          "nameEn": "akhbarfori",
+          "hasPicture": true,
+          "logoFileId": 447290,
+          "logoUrl": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=447290&width=50&height=50",
+          "pageUrl": "/companies/27638/استخدام-هلدینگ-رسانه-ای-خبر-فوری",
+          "isEmployerResponsive": false,
+          "isFamous": false,
+          "isGovernmentalCompany": false,
+          "companyScore": 3.104819235797411
+        },
+        "location": {
+          "country": {
+            "id": 1,
+            "title": null,
+            "titleFa": "ایران",
+            "titleEn": "Iran"
+          },
+          "province": {
+            "urlTitle": "all-cities-of-khorasan-razavi",
+            "id": 21,
+            "title": "خراسان رضوی",
+            "titleFa": "خراسان رضوی",
+            "titleEn": "Khorasan Razavi"
+          },
+          "city": {
+            "citySize": 3,
+            "citySizeGroupId": 2,
+            "province": null,
+            "urlTitle": "mashhad",
+            "id": 439,
+            "title": null,
+            "titleFa": "مشهد",
+            "titleEn": "Mashhad"
+          },
+          "regionGroup": null,
+          "region": {
+            "id": 3271,
+            "title": null,
+            "titleFa": "قاسم آباد ( شهرک غرب)",
+            "titleEn": "ghasem abad"
+          }
+        },
+        "jobCategories": [
+          {
+            "id": 30,
+            "title": null,
+            "titleFa": "توسعه نرم افزار و برنامه نویسی",
+            "titleEn": "IT - Software Development (Web,Moblie,…)"
+          }
+        ],
+        "benefits": [
+          {
+            "id": 116,
+            "title": "وام",
+            "titleFa": "وام",
+            "titleEn": "Loan"
+          },
+          {
+            "id": 117,
+            "title": "پاداش",
+            "titleFa": "پاداش",
+            "titleEn": "Bonus"
+          },
+          {
+            "id": 227,
+            "title": "بیمه درمان تکمیلی",
+            "titleFa": "بیمه درمان تکمیلی",
+            "titleEn": "Health insurance\r\n"
+          },
+          {
+            "id": 233,
+            "title": "بن خرید",
+            "titleFa": "بن خرید",
+            "titleEn": "Purchasing coupon\r\n"
+          },
+          {
+            "id": 244,
+            "title": "بسته ها و هدایای مناسبتی",
+            "titleFa": "بسته ها و هدایای مناسبتی",
+            "titleEn": "Occasional packages and gifts\r\n"
+          }
+        ],
+        "workType": {
+          "id": 120,
+          "title": null,
+          "titleFa": "تمام وقت",
+          "titleEn": "Full Time"
+        },
+        "seniorityLevel": {
+          "id": 97,
+          "title": null,
+          "titleFa": "کارشناس",
+          "titleEn": "Specialist"
+        },
+        "salary": {
+          "id": 0,
+          "title": null,
+          "titleFa": "30 - 40 میلیون تومان",
+          "titleEn": "30 - 40 Million Tomans",
+          "max": 40,
+          "min": 30
+        },
+        "industry": {
+          "id": 65,
+          "title": "بازاریابی و تبلیغات",
+          "titleFa": "بازاریابی و تبلیغات",
+          "titleEn": "Marketing / Advertising"
+        },
+        "gender": {
+          "id": 133,
+          "title": null,
+          "titleFa": "تفاوتی ندارد",
+          "titleEn": "Men / Women"
+        },
+        "labels": [],
+        "firstActivationTime": {
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T17:48:01Z"
+        },
+        "activationTime": {
+          "passedDays": 1,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T17:48:01Z"
+        },
+        "expireTime": {
+          "daysLeftUntil": 49,
+          "isExpired": false,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2027-01-13T17:48:00Z"
+        }
+      },
+      {
+        "score": 0.6660355925559998,
+        "itemIndex": 5,
+        "searchPositionCoefficient": 1,
+        "labelDetails": [],
+        "id": 1627584,
+        "title": "برنامه‌نویس فول‌استک (ابزارهای هوش مصنوعی)",
+        "isPersian": true,
+        "userJobPostInfo": {
+          "matchingScore": 0,
+          "isSuitableForCandidate": false,
+          "isBookmarked": false,
+          "isApplied": false,
+          "isCanceledApply": false,
+          "isAppliedAsVip": false,
+          "hasHighChanceBadge": null
+        },
+        "properties": {
+          "isInternship": false,
+          "isRemote": false,
+          "isUrgent": false,
+          "requiredRelatedExperienceYears": 1,
+          "suitableForDisabled": false,
+          "salaryCanBeShown": true,
+          "isCheckingResumes": false,
+          "typeId": 1,
+          "linkOutAddress": null,
+          "isBlueCollarJob": false
+        },
+        "company": {
+          "id": 275552,
+          "nameFa": "رستا فناور",
+          "nameEn": "rastafanavar",
+          "hasPicture": true,
+          "logoFileId": 39809349,
+          "logoUrl": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=39809349&width=50&height=50",
+          "pageUrl": "/companies/275552/استخدام-رستا-فناور",
+          "isEmployerResponsive": false,
+          "isFamous": false,
+          "isGovernmentalCompany": false,
+          "companyScore": 0
+        },
+        "location": {
+          "country": {
+            "id": 1,
+            "title": null,
+            "titleFa": "ایران",
+            "titleEn": "Iran"
+          },
+          "province": {
+            "urlTitle": "all-cities-of-alborz",
+            "id": 41,
+            "title": "البرز",
+            "titleFa": "البرز",
+            "titleEn": "Alborz"
+          },
+          "city": {
+            "citySize": 3,
+            "citySizeGroupId": 2,
+            "province": null,
+            "urlTitle": "karaj",
+            "id": 346,
+            "title": null,
+            "titleFa": "کرج",
+            "titleEn": "Karaj"
+          },
+          "regionGroup": null,
+          "region": {
+            "id": 3130,
+            "title": null,
+            "titleFa": "عظیمیه",
+            "titleEn": "Azimieh"
+          }
+        },
+        "jobCategories": [
+          {
+            "id": 30,
+            "title": null,
+            "titleFa": "توسعه نرم افزار و برنامه نویسی",
+            "titleEn": "IT - Software Development (Web,Moblie,…)"
+          }
+        ],
+        "benefits": [],
+        "workType": {
+          "id": 120,
+          "title": null,
+          "titleFa": "تمام وقت",
+          "titleEn": "Full Time"
+        },
+        "seniorityLevel": {
+          "id": 97,
+          "title": null,
+          "titleFa": "کارشناس",
+          "titleEn": "Specialist"
+        },
+        "salary": {
+          "id": 0,
+          "title": null,
+          "titleFa": "25 - 35 میلیون تومان",
+          "titleEn": "25 - 35 Million Tomans",
+          "max": 35,
+          "min": 25
+        },
+        "industry": {
+          "id": 50,
+          "title": "فناوری اطلاعات / نرم افزار و سخت افزار",
+          "titleFa": "فناوری اطلاعات / نرم افزار و سخت افزار",
+          "titleEn": "IT / Software / Hardware"
+        },
+        "gender": {
+          "id": 133,
+          "title": null,
+          "titleFa": "تفاوتی ندارد",
+          "titleEn": "Men / Women"
+        },
+        "labels": [],
+        "firstActivationTime": {
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T16:22:49Z"
+        },
+        "activationTime": {
+          "passedDays": 1,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T16:22:49Z"
+        },
+        "expireTime": {
+          "daysLeftUntil": 59,
+          "isExpired": false,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2027-01-23T16:22:49Z"
+        }
+      },
+      {
+        "score": 0.6529321670532227,
+        "itemIndex": 6,
+        "searchPositionCoefficient": 0.46,
+        "labelDetails": [],
+        "id": 1609857,
+        "title": "توسعه‌دهنده Odoo",
+        "isPersian": true,
+        "userJobPostInfo": {
+          "matchingScore": 0,
+          "isSuitableForCandidate": false,
+          "isBookmarked": false,
+          "isApplied": false,
+          "isCanceledApply": false,
+          "isAppliedAsVip": false,
+          "hasHighChanceBadge": null
+        },
+        "properties": {
+          "isInternship": false,
+          "isRemote": false,
+          "isUrgent": true,
+          "requiredRelatedExperienceYears": 3,
+          "suitableForDisabled": false,
+          "salaryCanBeShown": false,
+          "isCheckingResumes": true,
+          "typeId": 1,
+          "linkOutAddress": null,
+          "isBlueCollarJob": false
+        },
+        "company": {
+          "id": 150922,
+          "nameFa": "بارکس",
+          "nameEn": "barex",
+          "hasPicture": true,
+          "logoFileId": 38181380,
+          "logoUrl": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=38181380&width=50&height=50",
+          "pageUrl": "/companies/150922/استخدام-بارکس",
+          "isEmployerResponsive": false,
+          "isFamous": false,
+          "isGovernmentalCompany": false,
+          "companyScore": 0
+        },
+        "location": {
+          "country": {
+            "id": 1,
+            "title": null,
+            "titleFa": "ایران",
+            "titleEn": "Iran"
+          },
+          "province": {
+            "urlTitle": "all-cities-of-tehran",
+            "id": 17,
+            "title": "تهران",
+            "titleFa": "تهران",
+            "titleEn": "Tehran"
+          },
+          "city": {
+            "citySize": 4,
+            "citySizeGroupId": 1,
+            "province": null,
+            "urlTitle": "tehran",
+            "id": 320,
+            "title": null,
+            "titleFa": "تهران",
+            "titleEn": "Tehran"
+          },
+          "regionGroup": {
+            "id": 6,
+            "title": null,
+            "titleFa": "شمال غربی",
+            "titleEn": "North West"
+          },
+          "region": {
+            "id": 163,
+            "title": null,
+            "titleFa": "سعادت آباد",
+            "titleEn": "Sa'adat Abad"
+          }
+        },
+        "jobCategories": [
+          {
+            "id": 30,
+            "title": null,
+            "titleFa": "توسعه نرم افزار و برنامه نویسی",
+            "titleEn": "IT - Software Development (Web,Moblie,…)"
+          }
+        ],
+        "benefits": [
+          {
+            "id": 116,
+            "title": "وام",
+            "titleFa": "وام",
+            "titleEn": "Loan"
+          },
+          {
+            "id": 117,
+            "title": "پاداش",
+            "titleFa": "پاداش",
+            "titleEn": "Bonus"
+          },
+          {
+            "id": 235,
+            "title": "میان وعده",
+            "titleFa": "میان وعده",
+            "titleEn": "Snacks\r\n"
+          },
+          {
+            "id": 244,
+            "title": "بسته ها و هدایای مناسبتی",
+            "titleFa": "بسته ها و هدایای مناسبتی",
+            "titleEn": "Occasional packages and gifts\r\n"
+          }
+        ],
+        "workType": {
+          "id": 120,
+          "title": null,
+          "titleFa": "تمام وقت",
+          "titleEn": "Full Time"
+        },
+        "seniorityLevel": {
+          "id": 97,
+          "title": null,
+          "titleFa": "کارشناس",
+          "titleEn": "Specialist"
+        },
+        "salary": null,
+        "industry": {
+          "id": 60,
+          "title": "حمل و نقل / ترابری",
+          "titleFa": "حمل و نقل / ترابری",
+          "titleEn": "Transportation / Logistics"
+        },
+        "gender": {
+          "id": 133,
+          "title": null,
+          "titleFa": "تفاوتی ندارد",
+          "titleEn": "Men / Women"
+        },
+        "labels": [],
+        "firstActivationTime": {
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T10:56:07Z"
+        },
+        "activationTime": {
+          "passedDays": 1,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T10:56:07Z"
+        },
+        "expireTime": {
+          "daysLeftUntil": 49,
+          "isExpired": false,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2027-01-13T10:56:06Z"
+        }
+      },
+      {
+        "score": 0.647210955619812,
+        "itemIndex": 7,
+        "searchPositionCoefficient": 1,
+        "labelDetails": [],
+        "id": 1627870,
+        "title": "Software Engineer (Golang) | Finance",
+        "isPersian": false,
+        "userJobPostInfo": {
+          "matchingScore": 0,
+          "isSuitableForCandidate": false,
+          "isBookmarked": false,
+          "isApplied": false,
+          "isCanceledApply": false,
+          "isAppliedAsVip": false,
+          "hasHighChanceBadge": null
+        },
+        "properties": {
+          "isInternship": false,
+          "isRemote": false,
+          "isUrgent": false,
+          "requiredRelatedExperienceYears": 2,
+          "suitableForDisabled": false,
+          "salaryCanBeShown": false,
+          "isCheckingResumes": false,
+          "typeId": 1,
+          "linkOutAddress": null,
+          "isBlueCollarJob": false
+        },
+        "company": {
+          "id": 280,
+          "nameFa": "اسنپ",
+          "nameEn": "Snapp",
+          "hasPicture": true,
+          "logoFileId": 16103287,
+          "logoUrl": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=16103287&width=50&height=50",
+          "pageUrl": "/companies/280/استخدام-اسنپ",
+          "isEmployerResponsive": false,
+          "isFamous": false,
+          "isGovernmentalCompany": false,
+          "companyScore": 3.459307302410639
+        },
+        "location": {
+          "country": {
+            "id": 1,
+            "title": null,
+            "titleFa": "ایران",
+            "titleEn": "Iran"
+          },
+          "province": {
+            "urlTitle": "all-cities-of-tehran",
+            "id": 17,
+            "title": "تهران",
+            "titleFa": "تهران",
+            "titleEn": "Tehran"
+          },
+          "city": {
+            "citySize": 4,
+            "citySizeGroupId": 1,
+            "province": null,
+            "urlTitle": "tehran",
+            "id": 320,
+            "title": null,
+            "titleFa": "تهران",
+            "titleEn": "Tehran"
+          },
+          "regionGroup": {
+            "id": 1,
+            "title": null,
+            "titleFa": "شمال",
+            "titleEn": "North"
+          },
+          "region": {
+            "id": 3427,
+            "title": null,
+            "titleFa": "مقدس اردبیلی- زعفرانیه",
+            "titleEn": "Moghadas Ardebili- Zaferanieh"
+          }
+        },
+        "jobCategories": [
+          {
+            "id": 30,
+            "title": null,
+            "titleFa": "توسعه نرم افزار و برنامه نویسی",
+            "titleEn": "IT - Software Development (Web,Moblie,…)"
+          }
+        ],
+        "benefits": [],
+        "workType": {
+          "id": 120,
+          "title": null,
+          "titleFa": "تمام وقت",
+          "titleEn": "Full Time"
+        },
+        "seniorityLevel": {
+          "id": 97,
+          "title": null,
+          "titleFa": "کارشناس",
+          "titleEn": "Specialist"
+        },
+        "salary": null,
+        "industry": {
+          "id": 51,
+          "title": "اینترنت / تجارت الکترونیک / خدمات آنلاین",
+          "titleFa": "اینترنت / تجارت الکترونیک / خدمات آنلاین",
+          "titleEn": "Internet Provider / E-commerce / Online Services"
+        },
+        "gender": {
+          "id": 133,
+          "title": null,
+          "titleFa": "تفاوتی ندارد",
+          "titleEn": "Men / Women"
+        },
+        "labels": [],
+        "firstActivationTime": {
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T18:12:01Z"
+        },
+        "activationTime": {
+          "passedDays": 1,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T18:12:01Z"
+        },
+        "expireTime": {
+          "daysLeftUntil": 59,
+          "isExpired": false,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2027-01-23T18:12:01Z"
+        }
+      },
+      {
+        "score": 0.6428256034851074,
+        "itemIndex": 8,
+        "searchPositionCoefficient": 1,
+        "labelDetails": [],
+        "id": 1627305,
+        "title": "برنامه نویس",
+        "isPersian": true,
+        "userJobPostInfo": {
+          "matchingScore": 0,
+          "isSuitableForCandidate": false,
+          "isBookmarked": false,
+          "isApplied": false,
+          "isCanceledApply": false,
+          "isAppliedAsVip": false,
+          "hasHighChanceBadge": null
+        },
+        "properties": {
+          "isInternship": false,
+          "isRemote": false,
+          "isUrgent": false,
+          "requiredRelatedExperienceYears": 0,
+          "suitableForDisabled": false,
+          "salaryCanBeShown": false,
+          "isCheckingResumes": false,
+          "typeId": 1,
+          "linkOutAddress": null,
+          "isBlueCollarJob": false
+        },
+        "company": {
+          "id": 33684,
+          "nameFa": "شرکت فن محوران پرتو",
+          "nameEn": "FMPARTO",
+          "hasPicture": true,
+          "logoFileId": 599587,
+          "logoUrl": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=599587&width=50&height=50",
+          "pageUrl": "/companies/33684/استخدام-شرکت-فن-محوران-پرتو",
+          "isEmployerResponsive": false,
+          "isFamous": false,
+          "isGovernmentalCompany": false,
+          "companyScore": 0
+        },
+        "location": {
+          "country": {
+            "id": 1,
+            "title": null,
+            "titleFa": "ایران",
+            "titleEn": "Iran"
+          },
+          "province": {
+            "urlTitle": "all-cities-of-tehran",
+            "id": 17,
+            "title": "تهران",
+            "titleFa": "تهران",
+            "titleEn": "Tehran"
+          },
+          "city": {
+            "citySize": 4,
+            "citySizeGroupId": 1,
+            "province": null,
+            "urlTitle": "tehran",
+            "id": 320,
+            "title": null,
+            "titleFa": "تهران",
+            "titleEn": "Tehran"
+          },
+          "regionGroup": {
+            "id": 8,
+            "title": null,
+            "titleFa": "جنوب غربی",
+            "titleEn": "South West"
+          },
+          "region": {
+            "id": 169,
+            "title": null,
+            "titleFa": "شادآباد",
+            "titleEn": "Shad Abad"
+          }
+        },
+        "jobCategories": [
+          {
+            "id": 30,
+            "title": null,
+            "titleFa": "توسعه نرم افزار و برنامه نویسی",
+            "titleEn": "IT - Software Development (Web,Moblie,…)"
+          }
+        ],
+        "benefits": [
+          {
+            "id": 117,
+            "title": "پاداش",
+            "titleFa": "پاداش",
+            "titleEn": "Bonus"
+          },
+          {
+            "id": 227,
+            "title": "بیمه درمان تکمیلی",
+            "titleFa": "بیمه درمان تکمیلی",
+            "titleEn": "Health insurance\r\n"
+          },
+          {
+            "id": 234,
+            "title": "ناهار",
+            "titleFa": "ناهار",
+            "titleEn": "Lunch\r\n"
+          },
+          {
+            "id": 241,
+            "title": "صبحانه",
+            "titleFa": "صبحانه",
+            "titleEn": "Breakfast\r\n"
+          }
+        ],
+        "workType": {
+          "id": 120,
+          "title": null,
+          "titleFa": "تمام وقت",
+          "titleEn": "Full Time"
+        },
+        "seniorityLevel": {
+          "id": 97,
+          "title": null,
+          "titleFa": "کارشناس",
+          "titleEn": "Specialist"
+        },
+        "salary": null,
+        "industry": {
+          "id": 54,
+          "title": "تولیدی / صنعتی",
+          "titleFa": "تولیدی / صنعتی",
+          "titleEn": "Manufacturing & Production"
+        },
+        "gender": {
+          "id": 133,
+          "title": null,
+          "titleFa": "تفاوتی ندارد",
+          "titleEn": "Men / Women"
+        },
+        "labels": [],
+        "firstActivationTime": {
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T14:39:52Z"
+        },
+        "activationTime": {
+          "passedDays": 1,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T14:39:52Z"
+        },
+        "expireTime": {
+          "daysLeftUntil": 59,
+          "isExpired": false,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2027-01-23T14:39:52Z"
+        }
+      },
+      {
+        "score": 0.6327410340309143,
+        "itemIndex": 9,
+        "searchPositionCoefficient": 0.46,
+        "labelDetails": [],
+        "id": 1626709,
+        "title": "مهندس توسعه نرم‌افزار با هوش مصنوعی (AI-Assisted Software Engineer)",
+        "isPersian": true,
+        "userJobPostInfo": {
+          "matchingScore": 0,
+          "isSuitableForCandidate": false,
+          "isBookmarked": false,
+          "isApplied": false,
+          "isCanceledApply": false,
+          "isAppliedAsVip": false,
+          "hasHighChanceBadge": null
+        },
+        "properties": {
+          "isInternship": false,
+          "isRemote": false,
+          "isUrgent": true,
+          "requiredRelatedExperienceYears": 2,
+          "suitableForDisabled": false,
+          "salaryCanBeShown": true,
+          "isCheckingResumes": false,
+          "typeId": 1,
+          "linkOutAddress": null,
+          "isBlueCollarJob": false
+        },
+        "company": {
+          "id": 33079,
+          "nameFa": "هلدینگ هیرسا",
+          "nameEn": "Pooya Tejarat Hirsa",
+          "hasPicture": true,
+          "logoFileId": 5476828,
+          "logoUrl": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=5476828&width=50&height=50",
+          "pageUrl": "/companies/33079/استخدام-هلدینگ-هیرسا",
+          "isEmployerResponsive": true,
+          "isFamous": false,
+          "isGovernmentalCompany": false,
+          "companyScore": 0
+        },
+        "location": {
+          "country": {
+            "id": 1,
+            "title": null,
+            "titleFa": "ایران",
+            "titleEn": "Iran"
+          },
+          "province": {
+            "urlTitle": "all-cities-of-tehran",
+            "id": 17,
+            "title": "تهران",
+            "titleFa": "تهران",
+            "titleEn": "Tehran"
+          },
+          "city": {
+            "citySize": 4,
+            "citySizeGroupId": 1,
+            "province": null,
+            "urlTitle": "tehran",
+            "id": 320,
+            "title": null,
+            "titleFa": "تهران",
+            "titleEn": "Tehran"
+          },
+          "regionGroup": {
+            "id": 6,
+            "title": null,
+            "titleFa": "شمال غربی",
+            "titleEn": "North West"
+          },
+          "region": {
+            "id": 203,
+            "title": null,
+            "titleFa": "شهرک غرب (شهرک قدس)",
+            "titleEn": "Shahrak Gharb"
+          }
+        },
+        "jobCategories": [
+          {
+            "id": 30,
+            "title": null,
+            "titleFa": "توسعه نرم افزار و برنامه نویسی",
+            "titleEn": "IT - Software Development (Web,Moblie,…)"
+          }
+        ],
+        "benefits": [
+          {
+            "id": 116,
+            "title": "وام",
+            "titleFa": "وام",
+            "titleEn": "Loan"
+          },
+          {
+            "id": 117,
+            "title": "پاداش",
+            "titleFa": "پاداش",
+            "titleEn": "Bonus"
+          },
+          {
+            "id": 227,
+            "title": "بیمه درمان تکمیلی",
+            "titleFa": "بیمه درمان تکمیلی",
+            "titleEn": "Health insurance\r\n"
+          },
+          {
+            "id": 228,
+            "title": "اقامتگاه تفریحی",
+            "titleFa": "اقامتگاه تفریحی",
+            "titleEn": "Recreational accommodation\r\n"
+          },
+          {
+            "id": 231,
+            "title": "کمک هزینه دوره آموزشی",
+            "titleFa": "کمک هزینه دوره آموزشی",
+            "titleEn": "Learning stipends\r\n"
+          },
+          {
+            "id": 233,
+            "title": "بن خرید",
+            "titleFa": "بن خرید",
+            "titleEn": "Purchasing coupon\r\n"
+          },
+          {
+            "id": 235,
+            "title": "میان وعده",
+            "titleFa": "میان وعده",
+            "titleEn": "Snacks\r\n"
+          },
+          {
+            "id": 236,
+            "title": "امکانات ورزشی",
+            "titleFa": "امکانات ورزشی",
+            "titleEn": "Gym facilities\r\n"
+          },
+          {
+            "id": 241,
+            "title": "صبحانه",
+            "titleFa": "صبحانه",
+            "titleEn": "Breakfast\r\n"
+          },
+          {
+            "id": 244,
+            "title": "بسته ها و هدایای مناسبتی",
+            "titleFa": "بسته ها و هدایای مناسبتی",
+            "titleEn": "Occasional packages and gifts\r\n"
+          }
+        ],
+        "workType": {
+          "id": 120,
+          "title": null,
+          "titleFa": "تمام وقت",
+          "titleEn": "Full Time"
+        },
+        "seniorityLevel": {
+          "id": 172,
+          "title": null,
+          "titleFa": "کارشناس ارشد",
+          "titleEn": "Senior Specialist"
+        },
+        "salary": {
+          "id": 0,
+          "title": null,
+          "titleFa": "70 - 100 میلیون تومان",
+          "titleEn": "70 - 100 Million Tomans",
+          "max": 100,
+          "min": 70
+        },
+        "industry": {
+          "id": 64,
+          "title": "تجارت / بازرگانی",
+          "titleFa": "تجارت / بازرگانی",
+          "titleEn": "Trading / International Affairs"
+        },
+        "gender": {
+          "id": 133,
+          "title": null,
+          "titleFa": "تفاوتی ندارد",
+          "titleEn": "Men / Women"
+        },
+        "labels": [],
+        "firstActivationTime": {
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T11:59:06Z"
+        },
+        "activationTime": {
+          "passedDays": 1,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T11:59:06Z"
+        },
+        "expireTime": {
+          "daysLeftUntil": 59,
+          "isExpired": false,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2027-01-23T11:59:06Z"
+        }
+      },
+      {
+        "score": 0.6167783737182617,
+        "itemIndex": 10,
+        "searchPositionCoefficient": 1,
+        "labelDetails": [],
+        "id": 1627689,
+        "title": "Automation Engineer",
+        "isPersian": true,
+        "userJobPostInfo": {
+          "matchingScore": 0,
+          "isSuitableForCandidate": false,
+          "isBookmarked": false,
+          "isApplied": false,
+          "isCanceledApply": false,
+          "isAppliedAsVip": false,
+          "hasHighChanceBadge": null
+        },
+        "properties": {
+          "isInternship": false,
+          "isRemote": false,
+          "isUrgent": false,
+          "requiredRelatedExperienceYears": 3,
+          "suitableForDisabled": false,
+          "salaryCanBeShown": false,
+          "isCheckingResumes": false,
+          "typeId": 1,
+          "linkOutAddress": null,
+          "isBlueCollarJob": false
+        },
+        "company": {
+          "id": 8983,
+          "nameFa": "دیجی پی",
+          "nameEn": "Digipay",
+          "hasPicture": true,
+          "logoFileId": 39515410,
+          "logoUrl": "https://fileapi.jobvision.ir/api/v1.0/files/getimage?fileid=39515410&width=50&height=50",
+          "pageUrl": "/companies/8983/استخدام-دیجی-پی",
+          "isEmployerResponsive": true,
+          "isFamous": false,
+          "isGovernmentalCompany": false,
+          "companyScore": 3.810111247385014
+        },
+        "location": {
+          "country": {
+            "id": 1,
+            "title": null,
+            "titleFa": "ایران",
+            "titleEn": "Iran"
+          },
+          "province": {
+            "urlTitle": "all-cities-of-tehran",
+            "id": 17,
+            "title": "تهران",
+            "titleFa": "تهران",
+            "titleEn": "Tehran"
+          },
+          "city": {
+            "citySize": 4,
+            "citySizeGroupId": 1,
+            "province": null,
+            "urlTitle": "tehran",
+            "id": 320,
+            "title": null,
+            "titleFa": "تهران",
+            "titleEn": "Tehran"
+          },
+          "regionGroup": {
+            "id": 1,
+            "title": null,
+            "titleFa": "شمال",
+            "titleEn": "North"
+          },
+          "region": {
+            "id": 307,
+            "title": null,
+            "titleFa": "ونک",
+            "titleEn": "Vanak"
+          }
+        },
+        "jobCategories": [
+          {
+            "id": 30,
+            "title": null,
+            "titleFa": "توسعه نرم افزار و برنامه نویسی",
+            "titleEn": "IT - Software Development (Web,Moblie,…)"
+          }
+        ],
+        "benefits": [],
+        "workType": {
+          "id": 120,
+          "title": null,
+          "titleFa": "تمام وقت",
+          "titleEn": "Full Time"
+        },
+        "seniorityLevel": {
+          "id": 97,
+          "title": null,
+          "titleFa": "کارشناس",
+          "titleEn": "Specialist"
+        },
+        "salary": null,
+        "industry": {
+          "id": 38,
+          "title": "سرمایه گذاری و مالی",
+          "titleFa": "سرمایه گذاری و مالی",
+          "titleEn": "Finance / Investment"
+        },
+        "gender": {
+          "id": 133,
+          "title": null,
+          "titleFa": "تفاوتی ندارد",
+          "titleEn": "Men / Women"
+        },
+        "labels": [],
+        "firstActivationTime": {
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T16:44:06Z"
+        },
+        "activationTime": {
+          "passedDays": 1,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2026-11-24T16:44:06Z"
+        },
+        "expireTime": {
+          "daysLeftUntil": 59,
+          "isExpired": false,
+          "beautifyFa": "دیروز",
+          "beautifyEn": "Yesterday",
+          "date": "2027-01-23T16:44:06Z"
+        }
+      }
+    ],
+    "filters": {
+      "keyword": "python",
+      "jobCategory": null,
+      "locationWrapper": null,
+      "workExperiences": null,
+      "salaries": null,
+      "workTypes": null,
+      "seniorityLevels": null,
+      "jobPostPublishTime": null,
+      "industries": null,
+      "company": null,
+      "benefits": null,
+      "remote": false
+    },
+    "searchId": "393118266746982400",
+    "jobPostCount": 1019,
+    "hasSalaryHistogram": false
+  }
+}
